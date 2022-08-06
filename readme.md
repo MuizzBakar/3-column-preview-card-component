@@ -2,4 +2,4 @@
 
 This is a responsive 3-column-preview-card-component challenge from Frontendmentor.io I completed using HTML and CSS flexbox.
 
-Here's the link to the live page:
+Here's the link to the live page: https://muizzbakar.github.io/3-column-preview-card-component/
